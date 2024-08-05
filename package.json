@@ -1,5 +1,5 @@
 {
-  "name": "@foundry-rs/foundry-toolchain",
+  "name": "@brotherlymite/foundry-zksync-test-toolchain",
   "version": "1.0.8",
   "license": "SEE LICENSE IN LICENSE",
   "main": "dist/index.js",
